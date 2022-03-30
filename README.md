@@ -8,7 +8,7 @@ rm -rf -c
 ```
 # Install Repos
 ```
-git clone https://github.com/Tumbal-termux/-c
+https://github.com/usmanprasetyo/-c
 ```
 # Run
 ```
